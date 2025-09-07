@@ -4,7 +4,7 @@
 
 **This repository documents security research and vulnerabilities discovered in AI models. The exploits described here have been responsibly disclosed and patched. This is for educational and research purposes only.**
 
-## 📅 June 9, 2025
+## 📅 Aug 26, 2025
 
 ### Timeline of Discovery
 
